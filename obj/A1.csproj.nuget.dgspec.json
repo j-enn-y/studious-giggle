@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jenny\\OneDrive\\Documents\\CS335\\A1Template\\A1.csproj": {}
+    "C:\\Users\\rukun\\Downloads\\studious-giggle\\A1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jenny\\OneDrive\\Documents\\CS335\\A1Template\\A1.csproj": {
+    "C:\\Users\\rukun\\Downloads\\studious-giggle\\A1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenny\\OneDrive\\Documents\\CS335\\A1Template\\A1.csproj",
+        "projectUniqueName": "C:\\Users\\rukun\\Downloads\\studious-giggle\\A1.csproj",
         "projectName": "A1",
-        "projectPath": "C:\\Users\\jenny\\OneDrive\\Documents\\CS335\\A1Template\\A1.csproj",
-        "packagesPath": "C:\\Users\\jenny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenny\\OneDrive\\Documents\\CS335\\A1Template\\obj\\",
+        "projectPath": "C:\\Users\\rukun\\Downloads\\studious-giggle\\A1.csproj",
+        "packagesPath": "C:\\Users\\rukun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rukun\\Downloads\\studious-giggle\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rukun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
